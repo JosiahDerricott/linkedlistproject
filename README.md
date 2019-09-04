@@ -2,6 +2,8 @@
 
 A C++ creation of the doubly linked list data structure in C++ using my JDString data structure (https://github.com/JosiahDerricott/stringclassrecreation) previously created.
 
+Hosted here: https://repl.it/repls/BulkyMiniIntelligence
+
 ## Project Goals
 
 - [x] Create a fully functional doubly linked list in C++
@@ -19,7 +21,7 @@ A C++ creation of the doubly linked list data structure in C++ using my JDString
   - I found that creating an 'iterator' pointer that could iterate through each node and provide the node data was by far the best solution.
 ## Output
 
-The way I went about testing my linked list was to create four objects of my list, insert into the first two text from a book, and into the second two modified versions of the first two. After this, I went about testing my copy constructor by implicitly creating a copy of my list through the changer function. All output will reflect this.
+The way I went about testing my linked list was to create four objects of my list, insert into the first two text from a book, and into the second two modified versions of the first two. After this, I went about testing my copy constructor by implicitly creating a copy of my list through the changer function. All output will reflect this. The data is then organized alphabetically and outputted into two different output files for review.
 
 ## Conclusion
 
